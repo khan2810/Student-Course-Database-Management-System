@@ -1,5 +1,5 @@
 ## ✔ STUDENT & COURSE MANAGEMENT SYSTEM
-- This is an application regarding Student and Course Database Management System. 
+- A python GUI application regarding Student and Course Database Management System for IIIT Kalyani.
 
 ****
 
